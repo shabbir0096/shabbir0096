@@ -18,7 +18,7 @@
 
 I'm a software engineer specializing in cross-platform mobile development with a focus on building production-grade Flutter applications. I care about clean architecture, maintainable code, and delivering polished user experiences that scale.
 
-- 🚀 **Currently building** — [Denning Student Portal](https://apps.apple.com/us/app/denning-student-portal/id1631818297) (iOS & Android)
+- 🚀 **Currently building** — **Pickleloop**, an end-to-end pickleball platform for court bookings, tournament management, and single-match organization (iOS & Android)
 - 🧠 **Currently learning** — R and RStudio for data analysis and visualization
 - 💡 **Open to discuss** — Flutter architecture, state management, Firebase, REST/GraphQL integration, CI/CD, and app store deployment
 - 🤝 **Available for** — Collaboration on production Flutter projects and technical consulting
