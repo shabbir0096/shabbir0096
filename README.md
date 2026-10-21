@@ -2,8 +2,7 @@
 
 # Shabbir Abbas
 
-### Senior Flutter Developer | Mobile Software Engineer
-
+### Software Engineer
 *Building performant, cross-platform mobile experiences from Czech Republic 🇨🇿*
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/shabbir-abbas-2228a7155)
